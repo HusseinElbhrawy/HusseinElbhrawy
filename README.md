@@ -3,6 +3,10 @@
  <h1 align="center">Hi 👋, I'm Hussein Elbhrawy</h1>
 <h3 align="center">Software Engineer | Flutter Developer</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Software+Engineer;Flutter+Developer;Computer+Science;)](https://git.io/typing-svg)
+
+
+
 <p align="left">
 <a href="https://linkedin.com/in/hussein elbhrawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein elbhrawy" height="30" width="40" /></a>
 <a href="https://fb.com/husseinelbhrawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="husseinelbhrawy" height="30" width="40" /></a>
@@ -71,7 +75,13 @@
 
 
 
-
+<p align="center"> 
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+  &nbsp;
+  <i>
+    <b>Git Activeness</b>
+  </i>
+</p>
 
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=HusseinElbhrawy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="HusseinElbhrawy" /></p>
