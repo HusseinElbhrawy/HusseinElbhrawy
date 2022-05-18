@@ -34,7 +34,7 @@
 
 - 📫 You can reach me **hussein.elbhrway74@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1lRgjuK-IYP1uUkhLJyZsAl0HY1pacZUI/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/17ZSfkaNXTKLnh06CbpiXusRktl2PZrs4/view?usp=sharing)
 
 
 
