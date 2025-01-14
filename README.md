@@ -97,8 +97,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/HusseinElbhrawy/HusseinElbhrawy/output/snake.svg" alt="Snake animation" />
-
-###
