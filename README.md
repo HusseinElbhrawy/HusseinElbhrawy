@@ -45,43 +45,63 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Flutter&logo=flutter&label=&color=02569B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="flutter logo" />
+  </a>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dart&logo=dart&label=&color=0175C2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="dart logo" />
+  </a>
+  <a href="https://www.android.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Android&logo=android&label=&color=3DDC84&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="android logo" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=AndroidStudio&logo=androidstudio&label=&color=3DDC84&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="androidstudio logo" />
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="docker logo" />
+  </a>
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="figma logo" />
+  </a>
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="firebase logo" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="git logo" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="github logo" />
+  </a>
+  <a href="https://about.gitlab.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gitlab logo" />
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GoogleCloud&logo=googlecloud&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="googlecloud logo" />
+  </a>
+  <a href="https://gradle.org" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gradle&logo=gradle&label=&color=02303A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gradle logo" />
+  </a>
+  <a href="https://www.google.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="google logo" />
+  </a>
+  <a href="https://www.jetbrains.com/idea" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=IntelliJ&logo=intellijidea&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="intellij logo" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="java logo" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Jira&logo=jira&label=&color=0052CC&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="jira logo" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="mysql logo" />
+  </a>
+  <a href="https://slack.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo" />
+  </a>
+  <a href="https://trello.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Trello&logo=trello&label=&color=0052CC&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="trello logo" />
+  </a>
 </div>
 
 ###
